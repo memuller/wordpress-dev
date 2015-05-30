@@ -1,0 +1,11 @@
+.c9revisions
+.htaccess
+/wp-content/uploads
+/wp-content/cache
+/wp-config.php
+/nginx.conf
+/data
+node_modules
+.DS_Store
+*.sublime*
+*.svn
